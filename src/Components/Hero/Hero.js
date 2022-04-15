@@ -13,7 +13,7 @@ const Hero = () => {
             </h1>
             <ButtonContainer>
               <PrimaryLink to="/contact">Schedule Appointment</PrimaryLink>
-              <SecondaryLink to="">Learn More</SecondaryLink>
+              {/* <SecondaryLink to="#mission">Learn More</SecondaryLink> */}
             </ButtonContainer>
           </article>
         </Center>
